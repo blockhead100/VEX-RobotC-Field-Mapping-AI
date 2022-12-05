@@ -1,4 +1,9 @@
 # VEX-RobotC-Field-Mapping
 AI pathfinding for VEX field.
+Also reguler pathfinding
 
-Currently ptimized for Fantasticbot in Robot Virtual Worlds Skyrise map.
+ToDo:
+- test
+- develop AI more
+- display data on website
+- ceep up to date
