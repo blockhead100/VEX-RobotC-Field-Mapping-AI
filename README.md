@@ -7,3 +7,4 @@ ToDo:
 - develop AI more
 - display data on website
 - ceep up to date
+- add cone stuff
